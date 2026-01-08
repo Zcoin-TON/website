@@ -21,5 +21,5 @@
 
 
 ---
-WebSite: [https://zcoin.to](https://zcoin.to) | Wallet: [https://zcoin.ton](https://zcoin.ton) | TonViewer: [ZCoin TON](https://tonviewer.com/EQAgiOoiEcPkGCfygnH5LVho4MquQ2sgJFzCXyzPl-frUqYU) | TG Channel: [https://t.me/zcoin_to](https://t.me/zcoin_to)
+WebSite: [https://zcoin.to](https://zcoin.to) | Wallet: [zcoin.ton](zcoin.ton) | TonViewer: [ZCoin TON](https://tonviewer.com/EQAgiOoiEcPkGCfygnH5LVho4MquQ2sgJFzCXyzPl-frUqYU) | TG Channel: [https://t.me/zcoin_to](https://t.me/zcoin_to)
 
